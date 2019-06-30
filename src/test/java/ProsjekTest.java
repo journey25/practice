@@ -16,9 +16,14 @@ import static org.junit.Assert.assertEquals;
  * 첫째줄에 수열 B의 길이를 나타내는 N이 주어진다.(1 <= N <= 100)
  * 두번째 줄에 수열 B를 구성하는 N개의 요소가 주어진다. Bi (1 <= Bi <= 10^9)
  *
+ *
  * output
  * 첫째 줄에 수열 A를 이루는 N개의 정수를 출력해라 (1 <= Ai <= 10^9)
  * NOTE : 수열 A의 요소들은 정수이다.
+ *
+ *
+ * source
+ * COCI 2014/2015 Contest #1 1번
  *
  */
 public class ProsjekTest {

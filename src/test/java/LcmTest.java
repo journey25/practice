@@ -17,6 +17,10 @@ import static org.junit.Assert.assertEquals;
  * output
  * A와 B의 최소공배수를 한 줄에 출력한다.
  *
+ *
+ * source
+ * 2016 AIPO National Finals 2번
+ *
  */
 public class LcmTest {
 	@Test
