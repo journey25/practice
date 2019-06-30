@@ -6,6 +6,17 @@ import static org.junit.Assert.assertEquals;
 /**
  * @author jiyouneo
  * @since 2019. 06. 30
+ *
+ * 당신은 두 수에 대하여 최소공배수를 구하는 프로그램을 작성 하는 것이 목표이다.
+ *
+ * input
+ * 한 줄에 두 자연수 A와 B가 공백으로 분리되어 주어진다.
+ * A와 B는 100,000,000(10^8)보다 작다.
+ *
+ *
+ * output
+ * A와 B의 최소공배수를 한 줄에 출력한다.
+ *
  */
 public class LcmTest {
 	@Test
