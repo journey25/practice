@@ -1,3 +1,5 @@
+package algorithms;
+
 /**
  * @author jiyouneo
  * @since 2019. 06. 30

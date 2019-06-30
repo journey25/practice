@@ -1,4 +1,4 @@
-import algorithms.Lcm.Lcm;
+import algorithms.Lcm;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

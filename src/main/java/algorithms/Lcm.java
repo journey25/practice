@@ -1,4 +1,4 @@
-package algorithms.Lcm;
+package algorithms;
 
 /**
  * @author jiyouneo
