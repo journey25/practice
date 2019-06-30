@@ -28,4 +28,13 @@ public class Lcm {
 
 		return (num1 / gcd) * (num2 / gcd) * gcd;
 	}
+
+	public static int cal(int i, int j) {
+		int[] nums = new int[2];
+		nums[0] = i;
+		nums[1] = j;
+
+		Lcm lcm = new Lcm();
+		return lcm.cal(nums);
+	}
 }

@@ -61,11 +61,7 @@ public class LcmTest {
 	}
 
 	@Test
-	public void lcm_when121_199_then_24079() {
-		Lcm lcm = new Lcm();
-		int[] nums = new int[2];
-		nums[0] = 1;
-		nums[1] = 123;
-		assertEquals(123, lcm.cal(nums));
+	public void lcm_when121_199_then_24079_static() {
+		assertEquals(123, Lcm.cal(1, 123));
 	}
 }
